@@ -1,1 +1,2 @@
-# SQLDrill_LibMgmt
+## SQLDrill_LibMgmt
+This was a practice drill using SQL and MS SQL Server. The task was to look at a graphic of a library management database containing 7 tables, develop a schema, and create the database. Then I had to populate the tables with dummy data I made up, conforming to certain rules given, and then write 7 queries to answer specific questions given and turn one of the queries into a stored procedure. 
